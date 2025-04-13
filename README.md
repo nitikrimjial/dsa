@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/nitikrimjial/dsa/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/nitikrimjial/dsa/tree/master/0268-missing-number) |
+| [2050-count-good-numbers](https://github.com/nitikrimjial/dsa/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nitikrimjial/dsa/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/nitikrimjial/dsa/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
