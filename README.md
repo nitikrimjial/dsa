@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-count-good-triplets](https://github.com/nitikrimjial/dsa/tree/master/1656-count-good-triplets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nitikrimjial/dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Hash Table
