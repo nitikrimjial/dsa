@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/nitikrimjial/dsa/tree/master/0038-count-and-say) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitikrimjial/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitikrimjial/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nitikrimjial/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitikrimjial/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -152,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nitikrimjial/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
