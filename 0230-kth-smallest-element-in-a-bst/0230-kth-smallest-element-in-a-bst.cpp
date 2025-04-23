@@ -21,7 +21,7 @@ public:
             res = root -> val;
             return ;
         }
-        solve(root->right, count, res, k);
+        solve(root -> right, count, res, k);
     }
     int kthSmallest(TreeNode* root, int k) {
         int count = 0;
