@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nitikrimjial/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitikrimjial/dsa/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/nitikrimjial/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nitikrimjial/dsa/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nitikrimjial/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -188,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/nitikrimjial/dsa/tree/master/0295-find-median-from-data-stream) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nitikrimjial/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nitikrimjial/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/nitikrimjial/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## String Matching
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/nitikrimjial/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nitikrimjial/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nitikrimjial/dsa/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/nitikrimjial/dsa/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
