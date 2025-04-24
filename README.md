@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nitikrimjial/dsa/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitikrimjial/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/nitikrimjial/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nitikrimjial/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitikrimjial/dsa/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/nitikrimjial/dsa/tree/master/0038-count-and-say) |
+| [0208-implement-trie-prefix-tree](https://github.com/nitikrimjial/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Greedy
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nitikrimjial/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## String Matching
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/nitikrimjial/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nitikrimjial/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nitikrimjial/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nitikrimjial/dsa/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
