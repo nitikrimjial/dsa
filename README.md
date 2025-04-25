@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nitikrimjial/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitikrimjial/dsa/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/nitikrimjial/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nitikrimjial/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/nitikrimjial/dsa/tree/master/0797-rabbits-in-forest) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/nitikrimjial/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nitikrimjial/dsa/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitikrimjial/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/nitikrimjial/dsa/tree/master/0322-coin-change) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nitikrimjial/dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/nitikrimjial/dsa/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
