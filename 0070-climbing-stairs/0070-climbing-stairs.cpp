@@ -1,17 +1,14 @@
 class Solution {
 public:
-    int helper(int n, unordered_map<int, int>& memo) {
+    int climbStairs(int n) {
         if(n == 0 || n == 1){
             return 1;
         }
-        if(memo.find(n) == memo.end()){
-            memo[n] = helper(n - 1, memo) + helper(n - 2, memo);
+        vector<int> dp(n + 1);
+        dp[0] = dp[1] = 1;
+        for(int i = 2; i <= n; i++){
+            dp[i] = dp[i - 1] + dp[i - 2];
         }
-        return memo[n];
+        return dp[n];
     }
-    int climbStairs(int n){
-        unordered_map<int, int> memo;
-        return helper(n, memo);
-    }
-
 };
