@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nitikrimjial/dsa/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/nitikrimjial/dsa/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nitikrimjial/dsa/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/nitikrimjial/dsa/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/nitikrimjial/dsa/tree/master/1500-count-largest-group) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nitikrimjial/dsa/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/nitikrimjial/dsa/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitikrimjial/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nitikrimjial/dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nitikrimjial/dsa/tree/master/0295-find-median-from-data-stream) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nitikrimjial/dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
