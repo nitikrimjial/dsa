@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitikrimjial/dsa/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/nitikrimjial/dsa/tree/master/0039-combination-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitikrimjial/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nitikrimjial/dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/nitikrimjial/dsa/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
