@@ -1,13 +1,16 @@
 class Solution {
 public:
-    int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m, vector<int>(n));
-        return paths(dp,0,0);
+    int help(int i, int j, vector<vector<int>>& dp){
+        if( i == 0 && j == 0) return 1;
+        if(i < 0 || j < 0) return 0;
+        if(dp[i][j] != -1) return dp[i][j];
+
+        int up = help(i - 1, j, dp);
+        int left = help(i, j - 1, dp);
+        return dp[i][j] = up + left;
     }
-    int paths(vector<vector<int>> &dp , int i, int j){
-        if(i >= size(dp) || j >= size(dp[0])) return 0;
-        if(i == size(dp) - 1 && j == size(dp[0]) - 1) return 1;
-        if(dp[i][j]) return dp[i][j];
-        return dp[i][j] = paths(dp, i + 1, j) + paths(dp, i, j + 1);
+    int uniquePaths(int m, int n) {
+        vector<vector<int>> dp(m, vector<int>(n, -1));
+        return help(m - 1, n - 1, dp);
     }
 };
