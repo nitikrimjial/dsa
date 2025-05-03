@@ -1,21 +1,12 @@
 class Solution {
 public:
-    bool help(int i,vector<int>& nums, vector<int>& dp) {
-        int n = nums.size();
-        if( i == n - 1) return true;
-        if(dp[i] != - 1) return dp[i];
-
-
-        int maxreach = min(i + nums[i], n - 1);
-        for(int j = i + 1; j <= maxreach; j++){
-            if(help(j, nums, dp)){
-                return dp[i] = true;
+    bool canJump(vector<int>& nums) {
+        int goal = nums.size() - 1;
+        for(int i = nums.size() - 2; i >= 0; i--){
+            if(i + nums[i] >= goal){
+                goal = i;
             }
         }
-        return dp[i] = false;
-    }
-    bool canJump(vector<int>& nums){
-        vector<int> dp(nums.size(), - 1);
-        return help(0, nums, dp);
+        return goal == 0;
     }
 };
