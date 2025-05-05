@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nitikrimjial/dsa/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nitikrimjial/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nitikrimjial/dsa/tree/master/0322-coin-change) |
+| [0806-domino-and-tromino-tiling](https://github.com/nitikrimjial/dsa/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/nitikrimjial/dsa/tree/master/1250-longest-common-subsequence) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nitikrimjial/dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
