@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nitikrimjial/dsa/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/nitikrimjial/dsa/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/nitikrimjial/dsa/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/nitikrimjial/dsa/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitikrimjial/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nitikrimjial/dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nitikrimjial/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitikrimjial/dsa/tree/master/0268-missing-number) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nitikrimjial/dsa/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/nitikrimjial/dsa/tree/master/0295-find-median-from-data-stream) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nitikrimjial/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
