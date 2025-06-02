@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nitikrimjial/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nitikrimjial/dsa/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitikrimjial/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0135-candy](https://github.com/nitikrimjial/dsa/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nitikrimjial/dsa/tree/master/0198-house-robber) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/nitikrimjial/dsa/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/nitikrimjial/dsa/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/nitikrimjial/dsa/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nitikrimjial/dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitikrimjial/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
