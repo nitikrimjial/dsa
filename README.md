@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nitikrimjial/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nitikrimjial/dsa/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitikrimjial/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nitikrimjial/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-count-good-triplets](https://github.com/nitikrimjial/dsa/tree/master/1656-count-good-triplets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitikrimjial/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/nitikrimjial/dsa/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/nitikrimjial/dsa/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nitikrimjial/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nitikrimjial/dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nitikrimjial/dsa/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nitikrimjial/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nitikrimjial/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nitikrimjial/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
