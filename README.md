@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nitikrimjial/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/nitikrimjial/dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/nitikrimjial/dsa/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitikrimjial/dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitikrimjial/dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -394,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nitikrimjial/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/nitikrimjial/dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
