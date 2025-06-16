@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nitikrimjial/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-count-good-triplets](https://github.com/nitikrimjial/dsa/tree/master/1656-count-good-triplets) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/nitikrimjial/dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitikrimjial/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nitikrimjial/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitikrimjial/dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
