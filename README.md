@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/nitikrimjial/dsa/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/nitikrimjial/dsa/tree/master/1250-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nitikrimjial/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nitikrimjial/dsa/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/nitikrimjial/dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nitikrimjial/dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitikrimjial/dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nitikrimjial/dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nitikrimjial/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nitikrimjial/dsa/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Backtracking
 |  |
 | ------- |
