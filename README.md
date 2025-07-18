@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nitikrimjial/dsa/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nitikrimjial/dsa/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/nitikrimjial/dsa/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nitikrimjial/dsa/tree/master/0020-valid-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitikrimjial/dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitikrimjial/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
