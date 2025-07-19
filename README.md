@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nitikrimjial/dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nitikrimjial/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/nitikrimjial/dsa/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitikrimjial/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitikrimjial/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nitikrimjial/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nitikrimjial/dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/nitikrimjial/dsa/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitikrimjial/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitikrimjial/dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nitikrimjial/dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitikrimjial/dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/nitikrimjial/dsa/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/nitikrimjial/dsa/tree/master/0572-subtree-of-another-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitikrimjial/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nitikrimjial/dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nitikrimjial/dsa/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nitikrimjial/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/nitikrimjial/dsa/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitikrimjial/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
