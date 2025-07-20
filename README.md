@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitikrimjial/dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/nitikrimjial/dsa/tree/master/1656-count-good-triplets) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nitikrimjial/dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nitikrimjial/dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nitikrimjial/dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitikrimjial/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/nitikrimjial/dsa/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nitikrimjial/dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nitikrimjial/dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nitikrimjial/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nitikrimjial/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitikrimjial/dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nitikrimjial/dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/nitikrimjial/dsa/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitikrimjial/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nitikrimjial/dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitikrimjial/dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nitikrimjial/dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitikrimjial/dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nitikrimjial/dsa/tree/master/0572-subtree-of-another-tree) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nitikrimjial/dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nitikrimjial/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/nitikrimjial/dsa/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitikrimjial/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/nitikrimjial/dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
