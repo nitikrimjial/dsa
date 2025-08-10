@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitikrimjial/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/nitikrimjial/dsa/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/nitikrimjial/dsa/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/nitikrimjial/dsa/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nitikrimjial/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nitikrimjial/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nitikrimjial/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitikrimjial/dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/nitikrimjial/dsa/tree/master/0900-reordered-power-of-2) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitikrimjial/dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitikrimjial/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/nitikrimjial/dsa/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/nitikrimjial/dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/nitikrimjial/dsa/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/nitikrimjial/dsa/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitikrimjial/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/nitikrimjial/dsa/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nitikrimjial/dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/nitikrimjial/dsa/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/nitikrimjial/dsa/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nitikrimjial/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nitikrimjial/dsa/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nitikrimjial/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitikrimjial/dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/nitikrimjial/dsa/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nitikrimjial/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
