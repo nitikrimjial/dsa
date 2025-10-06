@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitikrimjial/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/nitikrimjial/dsa/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/nitikrimjial/dsa/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nitikrimjial/dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nitikrimjial/dsa/tree/master/0940-fruit-into-baskets) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nitikrimjial/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nitikrimjial/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nitikrimjial/dsa/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitikrimjial/dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nitikrimjial/dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitikrimjial/dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/nitikrimjial/dsa/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nitikrimjial/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/nitikrimjial/dsa/tree/master/0572-subtree-of-another-tree) |
+| [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitikrimjial/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nitikrimjial/dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nitikrimjial/dsa/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/nitikrimjial/dsa/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nitikrimjial/dsa/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/nitikrimjial/dsa/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nitikrimjial/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nitikrimjial/dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nitikrimjial/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nitikrimjial/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/nitikrimjial/dsa/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/nitikrimjial/dsa/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nitikrimjial/dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -613,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nitikrimjial/dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nitikrimjial/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nitikrimjial/dsa/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/nitikrimjial/dsa/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nitikrimjial/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitikrimjial/dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -628,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nitikrimjial/dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Stack
 |  |
