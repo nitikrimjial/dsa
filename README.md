@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nitikrimjial/dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nitikrimjial/dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nitikrimjial/dsa/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nitikrimjial/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/nitikrimjial/dsa/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nitikrimjial/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nitikrimjial/dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/nitikrimjial/dsa/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitikrimjial/dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nitikrimjial/dsa/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nitikrimjial/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/nitikrimjial/dsa/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/nitikrimjial/dsa/tree/master/2915-count-of-interesting-subarrays) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nitikrimjial/dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nitikrimjial/dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitikrimjial/dsa/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nitikrimjial/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nitikrimjial/dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/nitikrimjial/dsa/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nitikrimjial/dsa/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitikrimjial/dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nitikrimjial/dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nitikrimjial/dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nitikrimjial/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/nitikrimjial/dsa/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nitikrimjial/dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nitikrimjial/dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
