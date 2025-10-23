@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitikrimjial/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nitikrimjial/dsa/tree/master/3637-count-number-of-balanced-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nitikrimjial/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/nitikrimjial/dsa/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nitikrimjial/dsa/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/nitikrimjial/dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/nitikrimjial/dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nitikrimjial/dsa/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nitikrimjial/dsa/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nitikrimjial/dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitikrimjial/dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/nitikrimjial/dsa/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitikrimjial/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nitikrimjial/dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nitikrimjial/dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nitikrimjial/dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/nitikrimjial/dsa/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitikrimjial/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitikrimjial/dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nitikrimjial/dsa/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Probability and Statistics
