@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nitikrimjial/dsa/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/nitikrimjial/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nitikrimjial/dsa/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/nitikrimjial/dsa/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitikrimjial/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitikrimjial/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/nitikrimjial/dsa/tree/master/0135-candy) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nitikrimjial/dsa/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nitikrimjial/dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nitikrimjial/dsa/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/nitikrimjial/dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nitikrimjial/dsa/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nitikrimjial/dsa/tree/master/0166-fraction-to-recurring-decimal) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nitikrimjial/dsa/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/nitikrimjial/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nitikrimjial/dsa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitikrimjial/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/nitikrimjial/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nitikrimjial/dsa/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/nitikrimjial/dsa/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nitikrimjial/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Queue
 |  |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nitikrimjial/dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nitikrimjial/dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nitikrimjial/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nitikrimjial/dsa/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nitikrimjial/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/nitikrimjial/dsa/tree/master/0945-snakes-and-ladders) |
