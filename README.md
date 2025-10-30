@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitikrimjial/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/nitikrimjial/dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/nitikrimjial/dsa/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nitikrimjial/dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nitikrimjial/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/nitikrimjial/dsa/tree/master/3830-find-closest-person) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nitikrimjial/dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nitikrimjial/dsa/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitikrimjial/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nitikrimjial/dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nitikrimjial/dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nitikrimjial/dsa/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
