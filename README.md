@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nitikrimjial/dsa/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nitikrimjial/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitikrimjial/dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nitikrimjial/dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitikrimjial/dsa/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/nitikrimjial/dsa/tree/master/0945-snakes-and-ladders) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nitikrimjial/dsa/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nitikrimjial/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nitikrimjial/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitikrimjial/dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nitikrimjial/dsa/tree/master/3748-sort-matrix-by-diagonals) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitikrimjial/dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/nitikrimjial/dsa/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nitikrimjial/dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/nitikrimjial/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/nitikrimjial/dsa/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/nitikrimjial/dsa/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitikrimjial/dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
