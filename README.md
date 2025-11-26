@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitikrimjial/dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nitikrimjial/dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitikrimjial/dsa/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2479-meeting-rooms-iii](https://github.com/nitikrimjial/dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nitikrimjial/dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nitikrimjial/dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nitikrimjial/dsa/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/nitikrimjial/dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nitikrimjial/dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitikrimjial/dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nitikrimjial/dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nitikrimjial/dsa/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/nitikrimjial/dsa/tree/master/0945-snakes-and-ladders) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nitikrimjial/dsa/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nitikrimjial/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nitikrimjial/dsa/tree/master/2625-increment-submatrices-by-one) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nitikrimjial/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitikrimjial/dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
