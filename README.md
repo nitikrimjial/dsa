@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/nitikrimjial/dsa/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitikrimjial/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitikrimjial/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/nitikrimjial/dsa/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitikrimjial/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nitikrimjial/dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/nitikrimjial/dsa/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/nitikrimjial/dsa/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/nitikrimjial/dsa/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitikrimjial/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/nitikrimjial/dsa/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/nitikrimjial/dsa/tree/master/1500-count-largest-group) |
