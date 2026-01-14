@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/nitikrimjial/dsa/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nitikrimjial/dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/nitikrimjial/dsa/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/nitikrimjial/dsa/tree/master/3454-separate-squares-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitikrimjial/dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nitikrimjial/dsa/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nitikrimjial/dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nitikrimjial/dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/nitikrimjial/dsa/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/nitikrimjial/dsa/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nitikrimjial/dsa/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitikrimjial/dsa/tree/master/3790-fruits-into-baskets-ii) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/nitikrimjial/dsa/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitikrimjial/dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nitikrimjial/dsa/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
@@ -943,4 +946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nitikrimjial/dsa/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/nitikrimjial/dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/nitikrimjial/dsa/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
