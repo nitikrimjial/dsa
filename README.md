@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/nitikrimjial/dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nitikrimjial/dsa/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nitikrimjial/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nitikrimjial/dsa/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nitikrimjial/dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/nitikrimjial/dsa/tree/master/0189-rotate-array) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nitikrimjial/dsa/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/nitikrimjial/dsa/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/nitikrimjial/dsa/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nitikrimjial/dsa/tree/master/0371-sum-of-two-integers) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nitikrimjial/dsa/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nitikrimjial/dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nitikrimjial/dsa/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/nitikrimjial/dsa/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/nitikrimjial/dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nitikrimjial/dsa/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/nitikrimjial/dsa/tree/master/0139-word-break) |
@@ -970,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nitikrimjial/dsa/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/nitikrimjial/dsa/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitikrimjial/dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/nitikrimjial/dsa/tree/master/2169-simple-bank-system) |
