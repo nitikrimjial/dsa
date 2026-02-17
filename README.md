@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/nitikrimjial/dsa/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/nitikrimjial/dsa/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nitikrimjial/dsa/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/nitikrimjial/dsa/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/nitikrimjial/dsa/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nitikrimjial/dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nitikrimjial/dsa/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nitikrimjial/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nitikrimjial/dsa/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/nitikrimjial/dsa/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/nitikrimjial/dsa/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/nitikrimjial/dsa/tree/master/0756-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nitikrimjial/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nitikrimjial/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
