@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nitikrimjial/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/nitikrimjial/dsa/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/nitikrimjial/dsa/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/nitikrimjial/dsa/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/nitikrimjial/dsa/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/nitikrimjial/dsa/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nitikrimjial/dsa/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/nitikrimjial/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nitikrimjial/dsa/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nitikrimjial/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/nitikrimjial/dsa/tree/master/0761-special-binary-string) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/nitikrimjial/dsa/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/nitikrimjial/dsa/tree/master/3721-longest-balanced-subarray-ii) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/nitikrimjial/dsa/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nitikrimjial/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/nitikrimjial/dsa/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/nitikrimjial/dsa/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nitikrimjial/dsa/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitikrimjial/dsa/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitikrimjial/dsa/tree/master/0960-delete-columns-to-make-sorted-iii) |
