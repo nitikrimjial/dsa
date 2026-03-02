@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nitikrimjial/dsa/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitikrimjial/dsa/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nitikrimjial/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitikrimjial/dsa/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nitikrimjial/dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/nitikrimjial/dsa/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/nitikrimjial/dsa/tree/master/1612-avoid-flood-in-the-city) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nitikrimjial/dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/nitikrimjial/dsa/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nitikrimjial/dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitikrimjial/dsa/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/nitikrimjial/dsa/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nitikrimjial/dsa/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitikrimjial/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nitikrimjial/dsa/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/nitikrimjial/dsa/tree/master/0945-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitikrimjial/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitikrimjial/dsa/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/nitikrimjial/dsa/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nitikrimjial/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/nitikrimjial/dsa/tree/master/1975-maximum-matrix-sum) |
