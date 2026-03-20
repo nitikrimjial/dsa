@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nitikrimjial/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nitikrimjial/dsa/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitikrimjial/dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/nitikrimjial/dsa/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitikrimjial/dsa/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nitikrimjial/dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nitikrimjial/dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/nitikrimjial/dsa/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nitikrimjial/dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitikrimjial/dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/nitikrimjial/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/nitikrimjial/dsa/tree/master/3647-zero-array-transformation-iii) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nitikrimjial/dsa/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nitikrimjial/dsa/tree/master/2625-increment-submatrices-by-one) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitikrimjial/dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/nitikrimjial/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/nitikrimjial/dsa/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nitikrimjial/dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
