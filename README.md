@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/nitikrimjial/dsa/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitikrimjial/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/nitikrimjial/dsa/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nitikrimjial/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nitikrimjial/dsa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3617-find-the-original-typed-string-i](https://github.com/nitikrimjial/dsa/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nitikrimjial/dsa/tree/master/3618-find-the-original-typed-string-ii) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nitikrimjial/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nitikrimjial/dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitikrimjial/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nitikrimjial/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3647-zero-array-transformation-iii](https://github.com/nitikrimjial/dsa/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nitikrimjial/dsa/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nitikrimjial/dsa/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nitikrimjial/dsa/tree/master/0572-subtree-of-another-tree) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nitikrimjial/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
