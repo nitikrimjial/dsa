@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nitikrimjial/dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitikrimjial/dsa/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/nitikrimjial/dsa/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/nitikrimjial/dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nitikrimjial/dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nitikrimjial/dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/nitikrimjial/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitikrimjial/dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitikrimjial/dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2463-minimum-total-distance-traveled](https://github.com/nitikrimjial/dsa/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/nitikrimjial/dsa/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nitikrimjial/dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/nitikrimjial/dsa/tree/master/2689-rearranging-fruits) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitikrimjial/dsa/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nitikrimjial/dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/nitikrimjial/dsa/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/nitikrimjial/dsa/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/nitikrimjial/dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nitikrimjial/dsa/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
