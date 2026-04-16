@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nitikrimjial/dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/nitikrimjial/dsa/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/nitikrimjial/dsa/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/nitikrimjial/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitikrimjial/dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nitikrimjial/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitikrimjial/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nitikrimjial/dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nitikrimjial/dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nitikrimjial/dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3488-closest-equal-element-queries](https://github.com/nitikrimjial/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nitikrimjial/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/nitikrimjial/dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/nitikrimjial/dsa/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nitikrimjial/dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/nitikrimjial/dsa/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/nitikrimjial/dsa/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/nitikrimjial/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nitikrimjial/dsa/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nitikrimjial/dsa/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitikrimjial/dsa/tree/master/3790-fruits-into-baskets-ii) |
