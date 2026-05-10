@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nitikrimjial/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nitikrimjial/dsa/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/nitikrimjial/dsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nitikrimjial/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nitikrimjial/dsa/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nitikrimjial/dsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nitikrimjial/dsa/tree/master/0073-set-matrix-zeroes) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nitikrimjial/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nitikrimjial/dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nitikrimjial/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nitikrimjial/dsa/tree/master/0070-climbing-stairs) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nitikrimjial/dsa/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitikrimjial/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/nitikrimjial/dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nitikrimjial/dsa/tree/master/0190-reverse-bits) |
